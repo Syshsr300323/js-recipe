@@ -61,4 +61,6 @@ const irohaNinodan = ["ち", "り", "ぬ", "る", "を"]
 
 const ichinodanToNinodan = [...irohaIchinodan, ...irohaNinodan]
 
-console.log(ichinodanToNinodan) // => ['い','ろ','は','に','ほ','へ','と','ち','り','ぬ','る','を']
+console.log(ichinodanToNinodan)
+
+Array.prototype // => ['い','ろ','は','に','ほ','へ','と','ち','り','ぬ','る','を']
